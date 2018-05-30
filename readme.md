@@ -6,9 +6,12 @@ This source code would be very helpful for someone who likes to learn a lot abou
 ## Features
 
 1. Play, Stop, Pause a Song.
-2. Create Playlist, Add Song to playlist.
+2. Create Playlist, Add/Remove Song to playlist.
 3. Play the playlist in Shuffle Mode or Sequential Mode.
-4. 
+4. **Play for n number of min and shutdown the computer**.
+5. **Play n songs and shutdown the computer**.
+6. Drag and Drop songs to playlist.
+
 This file contains how to execute the SAMP3 Player
 
 1. First add songs by clicking ADD FILES in FILE Menu
