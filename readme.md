@@ -18,14 +18,14 @@ This file contains how to execute the SAMP3 Player
 2. Click Play button
 3. Song can be paused or stopped.
 
-# Software Requirements
+## Software Requirements
 
 1. Windows 98 (Not sure if it works on Windows Version about 98. Thats because i built it on Windows 98 during 2001)
 2. MSDXM.OCX
 3. FlashActiveX Player
 4. MSCOMCTL.OCX Common Dialog Component
 
-# Hardware requirements
+## Hardware requirements
 
 At the time of developing this software, Not all computer had Sound Card by default. Hence I have mentioned  **Multimedia sound card** explicitly.
 
