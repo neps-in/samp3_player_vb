@@ -12,12 +12,6 @@ This source code would be very helpful for someone who likes to learn a lot abou
 5. **Play n songs and shutdown the computer**.
 6. Drag and Drop songs to playlist.
 
-This file contains how to execute the SAMP3 Player
-
-1. First add songs by clicking ADD FILES in FILE Menu
-2. Click Play button
-3. Song can be paused or stopped.
-
 ## Software Requirements
 
 1. Windows 98 (Not sure if it works on Windows Version about 98. Thats because i built it on Windows 98 during 2001)
